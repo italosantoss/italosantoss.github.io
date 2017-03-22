@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://italosantos.github.io/index.html</loc>
+    <lastmod>2017-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://italosantos.github.io/images/i.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://italosantos.github.io/images/matriz.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://italosantos.github.io/images/duo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://italosantos.github.io/images/dafiti.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://italosantos.github.io/images/ibm.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://italosantos.github.io/images/allo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://italosantos.github.io/images/ubuntu.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
